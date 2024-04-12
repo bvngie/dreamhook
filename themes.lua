@@ -36,7 +36,8 @@ local themes = {
             ["code"] = Enum.Font.Code
         },
         ["images"] = {
-            ["drop shadow"] = "rbxassetid://6049668989"
+            ["drop shadow"] = "rbxassetid://6049668989",
+            ["radial"] = "http://www.roblox.com/asset/?id=17110167028"
         },
         ["sizes"] = {
             ["main"] = Vector2.new(460, 440),
