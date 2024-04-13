@@ -43,6 +43,51 @@ local themes = {
             ["main"] = Vector2.new(460, 440),
             ["drop shadow"] = Vector2.new(52, 52)
         }
+    },
+    ["boss"] = {
+        ["colors"] = {
+            ["border"] = Color3.fromRGB(33, 58, 57),
+            ["layer"] = Color3.fromRGB(49, 54, 63),
+            ["background"] = Color3.fromRGB(34, 40, 49),
+            ["shift"] = Color3.fromRGB(28, 34, 43),
+            ["accent"] = Color3.fromRGB(118, 171, 174),
+            ["action"] = Color3.fromRGB(118, 171, 174),
+            ["header"] = Color3.fromRGB(180, 180, 180),
+            ["text"] = Color3.fromRGB(140, 140, 140),
+            ["secondary"] = Color3.fromRGB(110, 110, 110)
+        },
+        ["gradients"] = {
+            ["background"] = {
+                ["1"] = Color3.fromRGB(33, 58, 57),
+                ["2"] = Color3.fromRGB(31, 56, 55),
+                ["3"] = Color3.fromRGB(19, 54, 53),
+                ["4"] = Color3.fromRGB(17, 52, 51),
+                ["5"] = Color3.fromRGB(15, 50, 49)
+            },
+            ["drop shadow"] = {
+                ["1"] = Color3.fromRGB(118, 171, 174),
+                ["2"] = Color3.fromRGB(118, 171, 174),
+                ["3"] = Color3.fromRGB(118, 171, 174),
+                ["4"] = Color3.fromRGB(118, 171, 174),
+                ["5"] = Color3.fromRGB(118, 171, 174),
+                ["6"] = Color3.fromRGB(118, 171, 174)
+            }
+        },
+        ["transparencies"] = {
+            ["drop shadow"] = 0,
+            ["side text"] = 0.4
+        },
+        ["fonts"] = {
+            ["code"] = Enum.Font.Code
+        },
+        ["images"] = {
+            ["drop shadow"] = "rbxassetid://6049668989",
+            ["radial"] = "http://www.roblox.com/asset/?id=17110167028"
+        },
+        ["sizes"] = {
+            ["main"] = Vector2.new(460, 440),
+            ["drop shadow"] = Vector2.new(52, 52)
+        }
     }
 }
 
