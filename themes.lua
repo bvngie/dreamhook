@@ -46,10 +46,10 @@ local themes = {
     },
     ["boss"] = {
         ["colors"] = {
-            ["border"] = Color3.fromRGB(19, 54, 53),
-            ["layer"] = Color3.fromRGB(25, 60, 59),
-            ["background"] = Color3.fromRGB(22, 57, 56),
-            ["shift"] = Color3.fromRGB(16, 51, 50),
+            ["border"] = Color3.fromRGB(15, 20, 19),
+            ["layer"] = Color3.fromRGB(21, 26, 25),
+            ["background"] = Color3.fromRGB(11, 24, 23),
+            ["shift"] = Color3.fromRGB(3, 8, 7),
             ["accent"] = Color3.fromRGB(118, 171, 174),
             ["action"] = Color3.fromRGB(118, 171, 174),
             ["header"] = Color3.fromRGB(180, 180, 180),
@@ -58,11 +58,11 @@ local themes = {
         },
         ["gradients"] = {
             ["background"] = {
-                ["1"] = Color3.fromRGB(19, 54, 53),
-                ["2"] = Color3.fromRGB(17, 52, 50),
-                ["3"] = Color3.fromRGB(15, 50, 48),
-                ["4"] = Color3.fromRGB(13, 48, 46),
-                ["5"] = Color3.fromRGB(11, 46, 44)
+                ["1"] = Color3.fromRGB(15, 20, 19),
+                ["2"] = Color3.fromRGB(13, 18, 17),
+                ["3"] = Color3.fromRGB(11, 16, 15),
+                ["4"] = Color3.fromRGB(9, 14, 13),
+                ["5"] = Color3.fromRGB(7, 12, 11)
             },
             ["drop shadow"] = {
                 ["1"] = Color3.fromRGB(118, 171, 174),
