@@ -66,11 +66,11 @@ local themes = {
             },
             ["drop shadow"] = {
                 ["1"] = Color3.fromRGB(118, 171, 173),
-                ["2"] = Color3.fromRGB(118, 171, 173),
+                ["2"] = Color3.fromRGB(78, 131, 133),
                 ["3"] = Color3.fromRGB(118, 171, 173),
-                ["4"] = Color3.fromRGB(118, 171, 173),
+                ["4"] = Color3.fromRGB(78, 131, 133),
                 ["5"] = Color3.fromRGB(118, 171, 173),
-                ["6"] = Color3.fromRGB(118, 171, 173)
+                ["6"] = Color3.fromRGB(78, 131, 133)
             }
         },
         ["transparencies"] = {
