@@ -44,7 +44,7 @@ local themes = {
             ["drop shadow"] = Vector2.new(52, 52)
         }
     },
-    ["boss"] = {
+    ["bungie"] = {
         ["colors"] = {
             ["border"] = Color3.fromRGB(30, 30, 30),
             ["layer"] = Color3.fromRGB(36, 36, 36),
