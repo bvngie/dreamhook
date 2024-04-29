@@ -1,6 +1,6 @@
 -- / main module
 local uic = {
-    version = "v1.0",
+    version = "v1.2",
     services = {}, -- # game services that UI functions would use
     hidden = {}, -- # hidden functions such as clearing all elements etc
     module = {}, -- # main functions
