@@ -21,7 +21,7 @@
 ]]--
 
 -- / main module
-local uic = {
+getgenv().uic = {
     version = "v1.2",
     services = {}, -- # game services that UI functions would use
     hidden = {}, -- # hidden functions such as clearing all elements etc
